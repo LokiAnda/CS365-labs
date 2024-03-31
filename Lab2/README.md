@@ -5,18 +5,22 @@ Here's a description for each part in Lab 2.
 **Description**:
 This Python script provides a simple implementation of the Breakthrough board game. Breakthrough is a two-player abstract strategy game played on an 8x8 grid. Each player has a set of pieces represented by 'X' and 'O' on the board, and the goal is to reach the opponent's home row or eliminate all opponent's pieces.
 
-**Functionality**:
+### Functionality:
 
 **Initialization**: The BreakthroughGame class initializes the game with customizable parameters such as the number of rows and columns on the board and the number of rows with pieces for each player.
-**Initial State**: The initial_state method sets up the starting state of the game board with pieces arranged according to the rules of Breakthrough.
-**Display State**: The display_state method prints the current state of the game board.
-**Game Over Check**: The is_game_over method checks if the game is over by determining if any player has reached the last row or has no pieces left.
-**Move Generation**: The generate_moves method generates all possible moves for a given player. These moves include advancing a piece forward or capturing opponent pieces diagonally.
-**Usage**:
 
-1. Ensure Python 3.x is installed on your system.
-2. Download or clone the repository containing the script.
-3. Run the script.
+**Initial State**: The initial_state method sets up the starting state of the game board with pieces arranged according to the rules of Breakthrough.
+
+**Display State**: The display_state method prints the current state of the game board.
+
+**Game Over Check**: The is_game_over method checks if the game is over by determining if any player has reached the last row or has no pieces left.
+
+**Move Generation**: The generate_moves method generates all possible moves for a given player. These moves include advancing a piece forward or capturing opponent pieces diagonally.
+
+**Usage**:
+    1. Ensure Python 3.x is installed on your system.
+    2. Download or clone the repository containing the script.
+    3. Run the script.
 
 **Running the Script** :
 
