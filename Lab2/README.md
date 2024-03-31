@@ -26,7 +26,7 @@ This Python script provides a simple implementation of the Breakthrough board ga
 
 ```bash
 python breakthrough_game.py
-
+```
 **Output** :
 Upon execution, the script will display the initial state of the game board, check if the game is over, and generate possible moves for both players.
 
@@ -62,7 +62,7 @@ Possible moves for PLAYER2:
 ((7, 2), (6, 1))
 ((7, 2), (6, 2))
 ...
-
+```
 
 ## Part 2
 
