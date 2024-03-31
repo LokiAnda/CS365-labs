@@ -54,7 +54,7 @@ It prints the length of the solution path and the total number of nodes expanded
     - It displays the solution path along with relevant statistics.
 
 
-#Part 3
+## Part 3
 
 This Python script defines a class, **MazeSolver**, which implements three different search algorithms (Breadth-First Search, Greedy Best-First Search, and A* Search) to find a solution path through a maze. Here's a breakdown of its functionality:
 
