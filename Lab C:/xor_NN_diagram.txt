@@ -1,0 +1,9 @@
+          [ Input Layer ]     [ Hidden Layer ]      [ Output Layer ]
+                x1                 h1, h2              y_hat x2
+                                      
+                         ↑          ↑            ↑
+                         |          |            |
+                         |          |            |
+                         ↓          ↓            ↓
+                                        
+                     Weight: w1     w3           w5
